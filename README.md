@@ -5,10 +5,10 @@ Name: 李瑞澄
 Student ID: 113370208
 
 ## Project Repository
-https://github.com/[你的帳號]/[你的專案名稱]
+https://github.com/113370208/Final-Project-cycle4
 
 ## Presentation Video
-https://youtube.com/[你的影片連結]
+https://youtu.be/qT4kbdJHRec
 
 ---
 
